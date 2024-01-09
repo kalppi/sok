@@ -1,0 +1,18 @@
+.btn {
+  border: 0;
+  color: white;
+  background: #007841;
+  font-weight: bold;
+  font-size: 1rem;
+  padding: 0.8rem 1.5rem;
+  border-radius: 1.6rem;
+  display: flex;
+  cursor: pointer;
+}
+
+.btn img {
+  margin-left: 0.5rem;
+  display: block;
+  align-self: center;
+}
+
